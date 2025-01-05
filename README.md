@@ -45,3 +45,46 @@ A simple, console-based application to record, manage, and analyze personal expe
 ![image](https://github.com/user-attachments/assets/74816152-ace9-4adf-9133-f78cb29848a3)
 ![image](https://github.com/user-attachments/assets/de5c2b9f-018f-4f96-8be4-ec32dac6ff08)
 
+2. **Run the Program**
+   python personal-expense-tracker.py
+
+#  **Usage**
+#  Main Menu
+   The program starts with the following options:
+   1. Add Expense
+   2. View Expenses
+   3. Delete Expense
+   4. View Monthly Summary
+   5. Exit
+
+#  Adding an Expense
+   Enter the date (e.g., 2025-01-10), category (e.g., Food), and amount (e.g., 200).      
+
+#  Viewing Expenses
+   Displays all expenses or filters by a category.
+
+#  Deleting an Expense
+   Specify the date, category, and amount of the expense to remove.   
+
+#  Viewing Monthly Summary
+   Enter a month (e.g., 2025-01) to see total expenses and category-wise breakdown.
+
+#  **Future Enhancements**
+  1. Add a graphical user interface (GUI) for better usability.
+  2. Introduce data export options (e.g., CSV, Excel).
+  3. Implement visual analytics (e.g., pie charts, bar graphs).
+  4. Enable multi-user support with separate expense files.
+
+#  **Contributing**
+   Contributions are welcome! If you'd like to improve this project:
+
+   1. Fork the repository.
+   2. Create a feature branch.
+   3. Submit a pull request.
+
+#  **Contact**
+   For any queries, feel free to contact:
+   Gaurav Chauhan
+   gchauhan22222@gmail.com
+   Gorosama69
+     
