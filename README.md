@@ -39,5 +39,9 @@ A simple, console-based application to record, manage, and analyze personal expe
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/Gorosama69/personal-expense-tracker.git
+   git clone https://github.com/Gorosama69/Masai-Project/personal-expense-tracker.git
    cd personal-expense-tracker
+## **Images**   
+![image](https://github.com/user-attachments/assets/74816152-ace9-4adf-9133-f78cb29848a3)
+![image](https://github.com/user-attachments/assets/de5c2b9f-018f-4f96-8be4-ec32dac6ff08)
+
